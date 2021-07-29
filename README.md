@@ -6,4 +6,4 @@ The spark I was missing ignited the instant I installed my first Linux as a kid.
 * LinkedIn: https://www.linkedin.com/in/yohannleon
 * Instagram: https://www.instagram.com/yohann
 
-Core focuses of interest currently includes SRE, DevOps, Linux, Python, Golang, Django, Docker, Kubernetes. I typically ask my family to point out which of these are Pokemons 😉 
+I love ≡𝐺𝑂 and spend too much time on Github, but core focuses of interest also includes SRE, AWS, Edge Networking, Linux, Python, Django, Docker, Kubernetes. I typically ask my family to point out which of these are Pokemons 😉 
